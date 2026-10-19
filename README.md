@@ -10,7 +10,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.2.0-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.3.0-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Gratuit](https://img.shields.io/badge/Gratuit-sans_limite-3DDC97?style=for-the-badge&labelColor=12101C)](#-questions-fréquentes)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12101C)](https://discord.gg/W5hd36CW6b)
@@ -174,7 +174,7 @@ Il repère aussi les tables du jeu importées par erreur dans la base interne «
 <details>
 <summary><b>J'utilise XAMPP : faut-il ouvrir le panneau XAMPP ?</b></summary>
 <br>
-Non. Pupitre trouve XAMPP tout seul et lance sa base MySQL en arrière-plan, sans fenêtre. Il l'arrête proprement quand vous cliquez sur « Tout arrêter ».
+Non. Pupitre trouve XAMPP tout seul et lance sa base MySQL en arrière-plan, sans fenêtre, ainsi qu'Apache pour que phpMyAdmin reste accessible (bouton « phpMyAdmin »). Il arrête tout proprement quand vous cliquez sur « Tout arrêter ».
 </details>
 
 <details>

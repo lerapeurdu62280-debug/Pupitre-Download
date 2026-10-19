@@ -10,7 +10,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.0.4-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.1.0-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Gratuit](https://img.shields.io/badge/Gratuit-sans_limite-3DDC97?style=for-the-badge&labelColor=12101C)](#-questions-fréquentes)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12101C)](https://discord.gg/W5hd36CW6b)
@@ -52,6 +52,7 @@ Il fonctionne avec **Qbox**, **QBCore** et **ESX**, détectés automatiquement, 
 - **Programmes annexes** : bot Discord (bot.js), script .bat, .exe…
 - **Serveur** avec txAdmin ou en direct (`+exec server.cfg`).
 - Arrêt propre : les joueurs sont déconnectés avant l'arrêt, pour éviter l'erreur de licence en double à la reconnexion.
+- **Constructeur de base** : crée la base et un compte MySQL dédié, importe les fichiers .sql de vos ressources dans le bon ordre et met à jour `server.cfg`.
 
 </td>
 <td width="50%" valign="top">
@@ -160,6 +161,14 @@ Une seule chose, et seulement si vous le laissez faire : il copie la ressource <
 <summary><b>Le pont ouvre-t-il quelque chose sur Internet ?</b></summary>
 <br>
 Non. Pupitre et le pont communiquent par de simples fichiers dans le dossier du serveur (<code>commandes.txt</code>, <code>joueurs.json</code>, <code>catalogue.json</code>). Aucun port n'est ouvert, rien ne sort de votre PC.
+</details>
+
+<details>
+<summary><b>Je pars de zéro : comment créer la base du serveur ?</b></summary>
+<br>
+Cliquez sur <b>Base…</b> : le constructeur crée la base et un compte MySQL réservé au serveur, retrouve tous les fichiers .sql de vos ressources (ESX, QBCore, Qbox, inventaires, jobs…) et les importe dans le bon ordre, le cœur du framework d'abord. Les lignes déjà présentes sont ignorées, on peut donc le relancer sans risque. Il met enfin à jour <code>mysql_connection_string</code> dans <code>server.cfg</code>, après une copie de sauvegarde.
+<br><br>
+Il repère aussi les tables du jeu importées par erreur dans la base interne « mysql » et les déplace, avec leurs données, dans la base du serveur.
 </details>
 
 <details>

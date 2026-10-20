@@ -10,7 +10,7 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.0-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.1-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Gratuit](https://img.shields.io/badge/Gratuit-pour_toujours-3DDC97?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
 [![Premium](https://img.shields.io/badge/✦_Premium-20_€_à_vie-FF3D8B?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
@@ -20,7 +20,7 @@
 
 <img src="docs/screenshots/01-accueil.png" alt="Écran principal de Pupitre" width="900">
 
-<sub><i>Le serveur en ligne : services à gauche, journal en direct au centre, joueurs connectés à droite.</i></sub>
+<sub><i>Le serveur en ligne : services à gauche, outils sous la bannière, journal en direct au centre, joueurs connectés à droite.</i></sub>
 
 <br><br>
 
@@ -144,7 +144,7 @@ Tout ce qui sert à **faire tourner** le serveur reste **gratuit, pour toujours*
 <tr>
 <td width="50%" align="center">
 <img src="docs/screenshots/02-joueur.png" alt="Menu d'un joueur"><br>
-<b>1 · Clic droit sur un joueur</b><br><sub>Toutes les actions, jusqu'aux lieux de téléportation.</sub>
+<b>1 · Clic droit sur un joueur</b><br><sub>Toutes les actions, jusqu'aux sanctions (✦ Premium).</sub>
 </td>
 <td width="50%" align="center">
 <img src="docs/screenshots/03-commandes.png" alt="Palette de commandes"><br>
@@ -173,10 +173,22 @@ Tout ce qui sert à **faire tourner** le serveur reste **gratuit, pour toujours*
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="docs/screenshots/08-premium.png" alt="Licence Premium"><br>
-<b>7 · Gratuit ou Premium</b><br><sub>Le code machine à envoyer, la licence à coller.</sub>
+<img src="docs/screenshots/11-installer.png" alt="Installer des scripts"><br>
+<b>7 · ✦ Installer des scripts</b><br><sub>Un lien GitHub suffit : version, dépendances et portes dérobées vérifiées.</sub>
 </td>
 <td width="50%" align="center">
+<img src="docs/screenshots/09-sauvegardes.png" alt="Sauvegardes de la base"><br>
+<b>8 · ✦ Sauvegardes de la base</b><br><sub>Automatiques, et restauration en un clic.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="docs/screenshots/10-automatismes.png" alt="Automatismes"><br>
+<b>9 · ✦ Automatismes</b><br><sub>Redémarrages, relance, sauvegardes, Discord et bot.</sub>
+</td>
+<td width="50%" align="center">
+<img src="docs/screenshots/08-premium.png" alt="Licence Premium"><br>
+<b>10 · Gratuit ou Premium</b><br><sub>Le code machine à envoyer, la licence à coller.</sub>
 </td>
 </tr>
 </table>

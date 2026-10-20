@@ -10,10 +10,10 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.1-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.2-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
 [![Gratuit](https://img.shields.io/badge/Gratuit-pour_toujours-3DDC97?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
-[![Premium](https://img.shields.io/badge/✦_Premium-20_€_à_vie-FF3D8B?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
+[![Premium](https://img.shields.io/badge/✦_Premium-20_€_à_vie-FF3D8B?style=for-the-badge&labelColor=12101C)](https://www.paypal.com/biz/profile/SOSinfoludo)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12101C)](https://discord.gg/W5hd36CW6b)
 
 <br>
@@ -129,9 +129,11 @@ Tout ce qui sert à **faire tourner** le serveur reste **gratuit, pour toujours*
 
 ### Obtenir Premium · 20 €
 
+<p align="center"><a href="https://www.paypal.com/biz/profile/SOSinfoludo"><img src="https://img.shields.io/badge/💳_Payer_20_€-avec_PayPal-0070BA?style=for-the-badge&logo=paypal&logoColor=white&labelColor=12101C" alt="Payer 20 € avec PayPal"></a></p>
+
 1. Dans Pupitre, cliquez sur **Version gratuite** (en haut à droite), puis sur **Copier** à côté de votre **code machine**.
 2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 💬 **[Discord](https://discord.gg/W5hd36CW6b)**.
-3. Réglez **20 €** : par **carte bancaire**, par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
+3. Réglez **20 €** : avec **[PayPal](https://www.paypal.com/biz/profile/SOSinfoludo)** (indiquez 20 € et votre code machine dans le message), par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer. Le bouton **Payer 20 € avec PayPal** est aussi dans la fenêtre Licence de Pupitre.
 4. Vous recevez votre licence par e-mail : collez-la dans la fenêtre **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
 
 > La licence est vérifiée **sur votre PC, sans connexion Internet**, et reste valable à vie sur cet ordinateur. Micro-entreprise : TVA non applicable, article 293 B du CGI.

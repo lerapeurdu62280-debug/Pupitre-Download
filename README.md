@@ -10,9 +10,10 @@
 
 <br>
 
-[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_1.3.4-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
+[![Télécharger](https://img.shields.io/badge/⬇_Télécharger-version_2.0.0-FF3D8B?style=for-the-badge&labelColor=12101C)](https://github.com/lerapeurdu62280-debug/Pupitre-Download/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#%EF%B8%8F-configuration-requise)
-[![Gratuit](https://img.shields.io/badge/Gratuit-sans_limite-3DDC97?style=for-the-badge&labelColor=12101C)](#-questions-fréquentes)
+[![Gratuit](https://img.shields.io/badge/Gratuit-pour_toujours-3DDC97?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
+[![Premium](https://img.shields.io/badge/✦_Premium-20_€_à_vie-FF3D8B?style=for-the-badge&labelColor=12101C)](#-gratuit-ou-premium-)
 [![Discord](https://img.shields.io/badge/Discord-rejoindre_l%E2%80%99atelier-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=12101C)](https://discord.gg/W5hd36CW6b)
 
 <br>
@@ -23,7 +24,7 @@
 
 <br><br>
 
-[**Pourquoi**](#-pourquoi-pupitre-) · [**Fonctionnalités**](#-fonctionnalités) · [**En images**](#%EF%B8%8F-en-images) · [**Télécharger**](#%EF%B8%8F-télécharger) · [**Questions fréquentes**](#-questions-fréquentes)
+[**Pourquoi**](#-pourquoi-pupitre-) · [**Fonctionnalités**](#-fonctionnalités) · [**Gratuit ou Premium**](#-gratuit-ou-premium-) · [**En images**](#%EF%B8%8F-en-images) · [**Télécharger**](#%EF%B8%8F-télécharger) · [**Questions fréquentes**](#-questions-fréquentes)
 
 </div>
 
@@ -84,6 +85,57 @@ Il fonctionne avec **Qbox**, **QBCore** et **ESX**, détectés automatiquement, 
 </tr>
 </table>
 
+### ✦ Et avec Premium
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ Protéger le serveur
+- **Installateur de scripts** : glissez une archive .zip, .rar ou .7z, ou **collez un lien GitHub**. Pupitre repère chaque script, **cherche les portes dérobées** des scripts « leak », vérifie les dépendances (manifeste, code et README) et importe les fichiers SQL.
+- **Sauvegardes automatiques de la base** toutes les quelques heures et à chaque démarrage, **restauration en un clic**.
+- **Modération** : avertissements, exclusions, **bannissements** (refusés à la connexion, quel que soit le framework), historique par joueur, joueurs absents retrouvés dans la base.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Automatiser
+- **Redémarrages programmés**, annoncés en ville 15, 10, 5 et 1 minute avant.
+- **Relance automatique** après un plantage, avec **alertes dans un salon Discord**.
+- **Ressources** : état réel, erreurs relevées dans le journal, relance, désactivation, désinstallation, **mises à jour GitHub** (votre configuration est gardée).
+- **Carte en direct** des joueurs, **plusieurs serveurs** dans un même Pupitre, **pilotage depuis le téléphone** avec un bot Discord (`/pupitre statut`, `annonce`, `redemarrer`…).
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💎 Gratuit ou Premium ?
+
+Tout ce qui sert à **faire tourner** le serveur reste **gratuit, pour toujours**. **Premium** ajoute l'automatisation et la protection, **à vie** sur votre ordinateur, pour **20 €** en une seule fois : pas d'abonnement.
+
+| | Gratuit | ✦ Premium · 20 € à vie |
+|---|:---:|:---:|
+| Démarrage de la base, des programmes et du serveur | ✅ | ✅ |
+| Console, journaux, joueurs, clic droit, palette de commandes | ✅ | ✅ |
+| Assistant, constructeur de base, diagnostic des pannes | ✅ | ✅ |
+| Installateur de scripts et détection des portes dérobées | — | ✅ |
+| Gestion et mises à jour des ressources | — | ✅ |
+| Sauvegardes automatiques et restauration de la base | — | ✅ |
+| Redémarrages programmés, relance après plantage, alertes Discord | — | ✅ |
+| Carte en direct, modération et bannissements | — | ✅ |
+| Plusieurs serveurs, bot Discord de pilotage à distance | — | ✅ |
+
+### Obtenir Premium · 20 €
+
+1. Dans Pupitre, cliquez sur **Version gratuite** (en haut à droite), puis sur **Copier** à côté de votre **code machine**.
+2. Envoyez ce code à **S.O.S INFO LUDO** : ✉️ **s.o.sinfoludo@gmail.com** · 💬 **[Discord](https://discord.gg/W5hd36CW6b)**.
+3. Réglez **20 €** : par **carte bancaire**, par **virement**, ou en **espèces** à l'atelier de Boulogne-sur-Mer.
+4. Vous recevez votre licence par e-mail : collez-la dans la fenêtre **Licence** (ou ouvrez le fichier `.lic`), puis cliquez sur **Activer Premium**.
+
+> La licence est vérifiée **sur votre PC, sans connexion Internet**, et reste valable à vie sur cet ordinateur. Micro-entreprise : TVA non applicable, article 293 B du CGI.
+
 <br>
 
 ## 🖼️ En images
@@ -107,6 +159,24 @@ Il fonctionne avec **Qbox**, **QBCore** et **ESX**, détectés automatiquement, 
 <td width="50%" align="center">
 <img src="docs/screenshots/05-assistant.png" alt="Assistant de configuration"><br>
 <b>4 · Assistant au premier lancement</b><br><sub>Framework, base, port et FXServer détectés tout seuls.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="docs/screenshots/06-carte.png" alt="Carte en direct"><br>
+<b>5 · ✦ Carte en direct</b><br><sub>Les joueurs et vos lieux enregistrés ; clic sur un joueur pour ses actions.</sub>
+</td>
+<td width="50%" align="center">
+<img src="docs/screenshots/07-ressources.png" alt="Ressources"><br>
+<b>6 · ✦ Ressources</b><br><sub>État réel, erreurs, relance et mises à jour GitHub.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="docs/screenshots/08-premium.png" alt="Licence Premium"><br>
+<b>7 · Gratuit ou Premium</b><br><sub>Le code machine à envoyer, la licence à coller.</sub>
+</td>
+<td width="50%" align="center">
 </td>
 </tr>
 </table>
@@ -148,7 +218,13 @@ Il fonctionne avec **Qbox**, **QBCore** et **ESX**, détectés automatiquement, 
 <details>
 <summary><b>Pupitre est-il vraiment gratuit ?</b></summary>
 <br>
-Oui, sans limite de joueurs ni de fonctions.
+Oui : démarrer et arrêter le serveur, la console, les joueurs, les commandes, l'assistant et le constructeur de base restent gratuits, sans limite de joueurs ni de durée. Premium (20 € à vie) ajoute l'automatisation et la protection : voir <a href="#-gratuit-ou-premium-">Gratuit ou Premium</a>.
+</details>
+
+<details>
+<summary><b>Je passe de la version 1.x à la 2.0 : je perds mes réglages ?</b></summary>
+<br>
+Non. Vos réglages sont repris tels quels et deviennent votre premier serveur. Le pont est mis à jour tout seul : redémarrez simplement le serveur une fois pour qu'il en profite.
 </details>
 
 <details>
@@ -160,7 +236,7 @@ Une seule chose, et seulement si vous le laissez faire : il copie la ressource <
 <details>
 <summary><b>Le pont ouvre-t-il quelque chose sur Internet ?</b></summary>
 <br>
-Non. Pupitre et le pont communiquent par de simples fichiers dans le dossier du serveur (<code>commandes.txt</code>, <code>joueurs.json</code>, <code>catalogue.json</code>). Aucun port n'est ouvert, rien ne sort de votre PC.
+Non. Pupitre et le pont communiquent par de simples fichiers dans le dossier du serveur (<code>commandes.txt</code>, <code>joueurs.json</code>, <code>catalogue.json</code>, <code>ressources.json</code>, <code>bans.json</code>). Aucun port n'est ouvert. Seuls les envois que vous activez vous-même partent vers Internet : alertes vers vos salons Discord et bot Discord (Premium).
 </details>
 
 <details>
@@ -207,6 +283,6 @@ Pupitre propose d'arrêter proprement le serveur, les programmes et la base de d
 
 **Pupitre** — conçu et développé par **S.O.S INFO LUDO**
 
-<sub>Logiciel propriétaire, tous droits réservés.<br>FiveM et Cfx.re sont des marques de Cfx.re / Take-Two Interactive. Grand Theft Auto V est une marque de Rockstar Games. XAMPP est un projet d'Apache Friends. Ce logiciel est indépendant : il n'est affilié à aucune de ces sociétés.</sub>
+<sub>Logiciel propriétaire, tous droits réservés.<br>Carte : CreepPork/GTAV-Maps (licence MIT). FiveM et Cfx.re sont des marques de Cfx.re / Take-Two Interactive. Grand Theft Auto V est une marque de Rockstar Games. XAMPP est un projet d'Apache Friends. Ce logiciel est indépendant : il n'est affilié à aucune de ces sociétés.</sub>
 
 </div>
